@@ -1,4 +1,4 @@
-## Olá Visitante!!! Eu sou o Breno. 👋 
+## Hi dear!!! I'm Breno. 👋 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
