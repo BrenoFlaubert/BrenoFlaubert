@@ -1,4 +1,4 @@
-## Hi dear!!! I'm Breno. 👋 
+## Hi dear!!! I'm Breno - Software Developer. 👋 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
