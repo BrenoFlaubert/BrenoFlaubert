@@ -1,4 +1,4 @@
-## Hi dear!!! I'm Breno - FullStack Developer. 👋 
+## Hi dear!!! I'm Breno - software developer. 👋 
 
 <div align="center">
   <a href="https://github.com/BrenoFlaubert">
