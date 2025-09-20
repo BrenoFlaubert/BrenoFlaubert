@@ -1,4 +1,4 @@
-## Hi dear!!! I'm Breno - software developer. 👋 
+## Olá, eu sou o Breno. Desenvolvedor de software. 👋 
 
 <div align="center">
   <a href="https://github.com/BrenoFlaubert">
